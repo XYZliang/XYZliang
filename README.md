@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="coding" style="zoom:200%;" />
+<img src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="coding" style="zoom:500%;" />
 
 <!--部分文案来自于meokisama-->
 
@@ -6,7 +6,7 @@
 
 A **Chinese** from Jiangxi Province😀. I am currently studying **Software Engineering** at **JXUFE** (Jiangxi University of Finance and Economics), School of Software and Internet of Things Engineering, Is the learning committee of the class, and member of the standing Committee of the Student Union of the College, disciplinary competition in the School of Management. 
 
-An overview of me and some of my projects can be found in my GitHub repository. If you want to know something else about me, I have some personal information platforms below(Is gradually building). Let's have a look!
+An overview of me and some of my projects can be found in my GitHub repository. If you want to know something else about me, I have some personal information platforms below(**is gradually building**). Let's have a look!
 
 Thanks for your attention ❤
 

@@ -4,13 +4,13 @@
 
 ## Hi, I'm XYZliang 🙋‍♂️
 
-A **Chinese** person from **Jiangxi** Province😀. I am now studying **software engineering** in the School of Software and Internet of Things Engineering, **Jiangxi University of Finance and Economics(JXUFE)**, where I am the class president and was the vice president of the college student council, managing the college's discipline competition.
+A **Chinese** person from **Jiangxi** Province😀. Graduated from the Software Engineering Department of **Jiangxi University of Finance and Economics** with a bachelor's degree in software engineering. I have served as a class leader and vice chairman of the student union of the college, responsible for academic competitions.
 
-Now I have been recommended to pursue a master's degree in Computer Science and Technology in School of Computer Science and Engineering, *University of Electronic Science and Technology of China(UESTC)* in Chengdu.
+Now I am recommended to pursue a master's degree in computer science and technology at the **University of Electronic Science and Technology of China and Technology**. Currently working as an algorithm engineer intern at **Chengdu Shuzhilian Technology Co., Ltd**.
 
-An overview of me and some of my projects can be found in my GitHub repository. If you want to know something else about me, I have some personal information platforms below(**is gradually building**). Let's have a look!
+An overview of me and some of my projects can be found on my GitHub repository. If you want to know more about me, I have some personal information platforms (**gradually being established**) below. Let's take a look together!
 
-Thanks for your attention ❤
+Thank you for your attention ❤
 
 ### 🔨Languages
 

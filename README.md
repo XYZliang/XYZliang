@@ -1,16 +1,64 @@
-<img src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="coding" style="width:100%"/>
+## 👋 Hi, I'm Liang Zhang
 
-<!--部分文案来自于meokisama-->
+🎓 **M.S. Candidate** @ UESTC | 🌐 **LLM Algorithm Intern** @ Tencent WXG | 📍 **Guangzhou, China**
 
-## Hi, I'm XYZliang 🙋‍♂️
+I'm currently pursuing my master's degree in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), focusing on Knowledge Graph Question Answering (KGQA), Large Language Models (LLMs).
 
-A **Chinese** person from **Jiangxi** Province😀. Graduated from the Software Engineering Department of **Jiangxi University of Finance and Economics** with a bachelor's degree in software engineering. I have served as a class leader and vice chairman of the student union of the college, responsible for academic competitions.
+Previously, I earned my B.Eng. in Software Engineering from Jiangxi University of Finance and Economics, serving as Vice Chairman of the Student Union and Class Leader, actively organizing academic competitions and student activities. Later, I was recommended to pursue my master's degree at UESTC
 
-Now I am recommended to pursue a master's degree in computer science and technology at the **University of Electronic Science and Technology of China and Technology**. Currently working as an algorithm engineer intern at **Chengdu Shuzhilian Technology Co., Ltd**.
+💼 **Work Experience**
+- 🌟 **Tencent WXG (2025.04 - Present)**: Algorithm intern focusing on large language models.
+- 🚀 **Shuzhilian Tech (2023.04 - 2023.09、2024.04 - 2025.04)**: Algorithm Engineer Intern, working on NLP, Knowledge Graphs, and LLMs, successfully contributing to several industry-level projects and innovations.
 
-An overview of me and some of my projects can be found on my GitHub repository. If you want to know more about me, I have some personal information platforms (**gradually being established**) below. Let's take a look together!
+🏅 **Highlight Experience**
+- 🥈 **CCKS 2024**: Developed a multi-hop KGQA system integrating Knowledge Graphs with LLM-based reasoning agents, awarded second prize and technology innovation prize, and invited to share insights at the **CCKS conference**, **Huawei Beijing Research Institute**, and the online NLP community **"Lao Liu Talks NLP"**.
 
-Thank you for your attention ❤
+🔨 **Tech Stack**
+- **Languages**: Python, Java, JavaScript
+- **Frameworks**: PyTorch, LangChain, DeepSpeed, SpringBoot, Django
+- **Databases**: Neo4j, MySQL, SQLite, gStore
+- **Tools & Platforms**: Docker, Ubuntu, GitHub, vLLM, Nginx, PVE
+
+📚 **About my GitHub**
+Due to confidentiality, most master's-level projects involving advanced LLM and AI applications are not publicly shared. However, feel free to explore my undergraduate projects related to software development, NLP foundations, and academic competitions.
+
+I'm always open to collaboration and excited to discuss cutting-edge technologies!
+
+📬 **Let's Connect!**
+- Email: zliang.std@gmail.com
+- GitHub: [XYZliang](https://github.com/XYZliang)
+
+## 👋 你好，我是张亮
+
+🎓 **电子科技大学计算机科学与技术硕士研究生** | 🌐 **腾讯WXG大模型算法实习生** | 📍 **广州**
+
+我目前就读于电子科技大学计算机科学与技术专业，主要研究方向包括知识图谱问答（KGQA）和大语言模型（LLM）。
+
+本科毕业于江西财经大学软件工程专业，曾任院学生会副主席和班长，积极组织各类学术竞赛和校园活动，后保研至电子科技大学攻读硕士研究生。
+
+💼 **工作经历**
+- 🌟 **腾讯 WXG（2025.04 - 至今）**：担任大模型算法工程师实习生，从事大模型相关算法工作。
+- 🚀 **成都数之联科技股份有限公司（2023.04 - 2023.09、2024.04 - 2025.04）**：算法工程师实习生，负责NLP、知识图谱及大模型领域的项目落地与技术创新，推动多个工业应用项目实施。
+
+🏅 **代表经历**
+- 🥈 **CCKS 2024**：负责构建融合知识图谱与大模型推理的多跳KGQA系统，荣获全国二等奖及技术创新奖，并受邀在**CCKS大会**、**华为北京研究所**、**老刘说NLP线上社区** 等场合进行专题分享。
+
+🔨 **技能标签**
+- **语言**：Python、Java、JavaScript
+- **框架**：PyTorch、LangChain、DeepSpeed、SpringBoot、Django
+- **数据库**：Neo4j、MySQL、SQLite、gStore
+- **工具 & 平台**：Docker、Ubuntu、GitHub、vLLM、Nginx、PVE
+
+📚 **关于我的 GitHub**
+因保密原因，研究生阶段涉及大模型及AI应用的项目暂未公开，目前主页项目主要展示本科阶段的软件开发、NLP基础应用及各类竞赛作品。
+
+我热爱技术分享，期待与更多志同道合的朋友交流合作！
+
+📬 **联系方式**
+- 邮箱：zliang.std@gmail.com  
+- GitHub：[XYZliang](https://github.com/XYZliang)
+
+## Others
 
 ### 🔨Languages
 
